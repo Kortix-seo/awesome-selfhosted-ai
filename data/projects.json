@@ -1931,5 +1931,11 @@
     "category": "Voice Agents",
     "description": "Voice AI building block with telephony integration and real-time speech processing.",
     "rising": true
+  },
+  {
+    "name": "Kortix",
+    "repo": "kortix-ai/CompanyOS",
+    "category": "Agents and Automation",
+    "description": "Open-source CompanyOS: agents, skills and flows as files in one git repo, each session on its own cloud computer."
   }
 ]
