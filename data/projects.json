@@ -1123,6 +1123,12 @@
     "description": "Pythonic framework for building MCP servers and clients."
   },
   {
+    "name": "Firecrawl MCP Server",
+    "repo": "firecrawl/firecrawl-mcp-server",
+    "category": "MCP Servers and Gateways",
+    "description": "Official MCP server for Firecrawl search, scrape, crawl and extraction, with Docker and self-hosted support."
+  },
+  {
     "name": "fxhoudinimcp",
     "repo": "healkeiser/fxhoudinimcp",
     "category": "MCP Servers and Gateways",
@@ -1937,5 +1943,12 @@
     "repo": "kortix-ai/CompanyOS",
     "category": "Agents and Automation",
     "description": "Open-source CompanyOS: agents, skills and flows as files in one git repo, each session on its own cloud computer."
+  },
+  {
+    "name": "Phosphene",
+    "repo": "mrbizarro/Phosphene",
+    "category": "Image and Video Generation",
+    "description": "AI video, image and music studio that runs locally on Apple Silicon Macs.",
+    "rising": true
   }
 ]
